@@ -9,4 +9,6 @@ func main() {
 	fmt.Print("Line 4 from Github")
 	fmt.Print("Fourth line")
 	fmt.Print("FIfth line WOW")
+	fmt.Print("Sixth line WOW WOW")
+	fmt.Print("Test of PULL REQUEST")
 }
